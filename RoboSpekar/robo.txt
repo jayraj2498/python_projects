@@ -1,0 +1,1 @@
+by using os.system()  it will run automatically commmamd
